@@ -4,7 +4,7 @@ I build at the intersection of **Agentic AI, cybersecurity, GRC engineering, and
 
 I bring **manual and automated QA** into security engineering through test design, **Python automation**, and validation of controls and integrations. My projects also cover **vulnerability management, threat detection, incident response, and GRC audits**, with an interest in **Forward Deployed Engineering** that turns complex security requirements into working solutions.
 
-## 🤖 Agentic AI Agents
+## 🤖 Agentic AI Agents Projects
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -16,6 +16,8 @@ I bring **manual and automated QA** into security engineering through test desig
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/EricNMass/threat-hunting-scenario-tor/tree/main)**
 - **[Threat Hunting Scenario (SOC Investigation Report)](https://github.com/EricNMass/SOC-Investigation-Report/blob/main/README.md)**
+
+## 🔎 Quality Assurance Projects
 
 <hr/>
 
