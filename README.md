@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/eric-n-mass/">Eric N Mass</a>'s Agentic AI, Cybersecurity, & Quality Assurance Project Portfolio 🔐
 
-I build at the intersection of **Agentic AI, cybersecurity, GRC engineering, and QA**. My work focuses on securing multi-agent systems and LLM applications against prompt injection, data exfiltration, and other adversarial threats. I apply principles from the **OWASP Top 10 for LLM Applications** and **NIST AI RMF**, alongside **IAM, RBAC**, and secrets management, to strengthen AI workflows.
+I build at the intersection of **Agentic AI, Cybersecurity, GRC engineering, and QA**. My work focuses on securing multi-agent systems and LLM applications against prompt injection, data exfiltration, and other adversarial threats. I apply principles from the **OWASP Top 10 for LLM Applications** and **NIST AI RMF**, alongside **IAM, RBAC**, and secrets management, to strengthen AI workflows.
 
 I bring **manual and automated QA** into security engineering through test design, **Python automation**, and validation of controls and integrations. My projects also cover **vulnerability management, threat detection, incident response, and GRC audits**, with an interest in **Forward Deployed Engineering** that turns complex security requirements into working solutions.
 
