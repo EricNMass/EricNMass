@@ -7,6 +7,7 @@ I bring **manual and automated QA** into security engineering through test desig
 ## 🤖 Agentic AI Agents Projects
 
 - **[Agentic AI Security Engineer Mentor](https://github.com/EricNMass/Agentic_AI_Security_Mentor)**
+- **[3D First-Person Shooter Game](https://github.com/EricNMass/first-person-shooter-mode)**
 
 
 ## ⚠️ Vulnerability Management Projects
